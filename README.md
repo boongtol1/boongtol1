@@ -57,8 +57,8 @@ I'm passionate about the mathematical foundations of deep learning and enjoy lea
 
 ---
 
-### 📊 Most Used Languages (via GitHub Stats)
-## 📊 Most Used Languages
+## 📊 Most Used Languages (via GitHub Stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boongtol1&layout=compact&theme=default)
 
