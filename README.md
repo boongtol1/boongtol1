@@ -10,32 +10,32 @@ I'm passionate about the mathematical foundations of deep learning and enjoy lea
 😊 boongtol1/2025-1
 
 
-├── 🔥 [2025-1-BDAP](#https://github.com/boongtol1/2025-1-BDAP)  
+├── 🔥 [2025-1-BDAP](https://github.com/boongtol1/2025-1-BDAP)  
 │   └── 🐍 Python  
 │       ├── 📦 pandas  
 │       ├── 📦 numpy  
 │       ├── 📦 matplotlib  
 │       └── 📦 seaborn  
 
-├── 🔥 [2025-1-DLP](#)  
+├── 🔥 [2025-1-DLP](https://github.com/boongtol1/2025-1-DLP)  
 │   └── 🐍 Python  
 │       ├── 📦 TensorFlow  
 │       ├── 📦 PyTorch  
 │       └── 📦 NumPy  
 
-├── 🔥 [2025-1-ML](#)  
+├── 🔥 [2025-1-ML](https://github.com/boongtol1/2025-1-ML)  
 │   └── 🐍 Python  
 │       ├── 📦 scikit-learn  
 │       ├── 📦 pandas  
 │       └── 📦 matplotlib  
 
-├── 🔥 [2025-1-OOP](#)  
+├── 🔥 [2025-1-OOP](https://github.com/boongtol1/2025-1-OOP)  
 │   └── ☕ Java  
 │       ├── 🧱 Class / Object  
 │       ├── 🔄 Inheritance  
 │       └── 🧩 Interface  
 
-├── 🔥 [2025-1-MP](#)  
+├── 🔥 [2025-1-MP](https://github.com/boongtol1/2025-1-MP)  
 │   ├── 🤖 Android Studio  
 │   ├── 📱 XML  
 │   └── ☕ Java  
@@ -50,10 +50,9 @@ I'm passionate about the mathematical foundations of deep learning and enjoy lea
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
 
 ---
 
@@ -76,10 +75,7 @@ I'm passionate about the mathematical foundations of deep learning and enjoy lea
 ---
 
 ### 🧑‍💻 IDEs / Editors
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ---
