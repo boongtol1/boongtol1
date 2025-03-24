@@ -10,7 +10,7 @@ I'm passionate about the mathematical foundations of deep learning and enjoy lea
 😊 boongtol1/2025-1
 
 
-├── 🔥 [2025-1-BDAP](#)  
+├── 🔥 [2025-1-BDAP](#https://github.com/boongtol1/2025-1-BDAP)  
 │   └── 🐍 Python  
 │       ├── 📦 pandas  
 │       ├── 📦 numpy  
