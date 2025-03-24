@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm majoring in AI software at Dongyang Mirae University.
 
 <!--
 **boongtol1/boongtol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
